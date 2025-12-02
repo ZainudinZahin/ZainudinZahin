@@ -16,7 +16,8 @@
   </a>
 </div>
 
-Welcome to my GitHub! 👩‍💻 👋 Hello, I’m Zainudin Zahin, a Full Stack Web Developer Expert with two years of commercial experience creating successful websites and web-based applications. 🎓 I graduated with a Bachelor of Computer Science (BCS) from Khurasan University in Jalalabad, Afghanistan, and currently, I’m pursuing my Master’s degree from Bakhtar University in Kabul. 💬 I am always available to discuss your project and see how I can help you achieve your goals. I look forward to hearing from you and helping you bring your web development projects to life. You can reach me here [Portfolio]<!--(https://khaliddanishyar.com/).-->
+Welcome to my GitHub! 👩‍💻 👋 Hello, I’m Zainudin Zahin, a Full-Stack Web Developer with two years of commercial experience creating successful websites and web-based applications. 🎓 I hold a Diploma in Computer Science from Khost Technical Institute in Khost, Afghanistan, and I am currently pursuing a Bachelor of Computer Science (BCS) degree at Shaikh Zayed University in Khost. 💬 I am always available to discuss your project and help you achieve your goals. I look forward to hearing from you and helping bring your web development projects to life.
+You can reach me here [Portfolio]<!--(https://khaliddanishyar.com/).-->
 <!--
 Asan Typing Application: <a href="https://asantyping.com">https://asantyping.com</a><br />
 Pashto Typing Applicaton: <a href="https://pashtotyping.com">https://pashtotyping.com</a><br />
